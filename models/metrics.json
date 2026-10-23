@@ -1,0 +1,9 @@
+{
+  "test_samples": 837,
+  "accuracy": 0.980884109916368,
+  "precision_spam": 0.8934426229508197,
+  "recall_spam": 0.9732142857142857,
+  "f1_spam": 0.9316239316239316,
+  "roc_auc": 0.9873768472906403,
+  "misclassified": 16
+}
